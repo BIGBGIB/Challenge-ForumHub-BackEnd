@@ -19,6 +19,8 @@
 
 - [Desenvolvedor](#desenvolvedor)
 
+- [Badge do curso](#badge)
+
 ## Descrição do projeto 
 
 <p align="justify">
@@ -47,5 +49,8 @@ Além disso, a plataforma proporciona um espaço para que os participantes contr
 | [<img src="https://github.com/user-attachments/assets/5f587f13-87e9-4006-ba0b-30e437d9199b" width="115" style="border: 2px solid #000; border-radius: 50%;"><br><sub>Gabrielle Alcoforado</sub>](https://github.com/BIGBGIB) |
 | :---: |
 
+## Bagde
 
-
+<div align="left">
+<img src="https://github.com/user-attachments/assets/3e62c986-6956-4c86-8d4d-30f19d7eb4c0" width="115" />
+</div>
